@@ -1,0 +1,14 @@
+{
+  "item.better_withered_mobs.withered_bone": "os flétrit",
+  "item.better_withered_mobs.withered_bone_meal": "Poudre d'os flétrit",
+  "block.better_withered_mobs.withered_bone_block": "Bloc d'os flétrit",
+  "item.minecraft.potion.effect.potion_of_decay": "Potion de corruption",
+  "item.minecraft.splash_potion.effect.potion_of_decay": "Potion de corruption jetable",
+  "item.minecraft.tipped_arrow.effect.potion_of_decay": "Flèche de corruption",
+  "item.minecraft.lingering_potion.effect.potion_of_decay": "Potion de corruption persistante",
+  "enchantment.better_withered_mobs.withering": "Flétrissement",
+  "itemGroup.better_withered_mobs.items": "Better Withered Mobs",
+  "text.autoconfig.better_withered_mobs.title": "Configuration de Better Withered Mobs",
+  "text.autoconfig.better_withered_mobs.option.witherSkeletonsSpawnWithWitheringEnchantedStoneSwords": "Apparition de Wither squelette avec épée de pierre enchantée de flétrissement",
+  "text.autoconfig.better_withered_mobs.option.witheredMobsDontDropRegularBones": "Les créatures flétrits ne laissent pas d'os normaux"
+}
